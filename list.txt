@@ -1,2 +1,1 @@
 NL959X9XV4
-    |   "IOPlatformSerialNumber" = "NL959X9XV4"
